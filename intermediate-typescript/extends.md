@@ -5,7 +5,7 @@ Extends is one of the tricker pieces of TypeScript syntax.
 The sentence that I find snaps things best into place for me is:
 
 ```
-The `extends` keyword means 'meets or extends the constraints of'.
+The `extends` keyword means 'meets or exceeds the constraints of'.
 ```
 
 Here are a couple of example thought-frames that help keep my understanding snapped in:
